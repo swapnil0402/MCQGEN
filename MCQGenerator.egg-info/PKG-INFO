@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: MCQGenerator
+Version: 0.1.0
+Summary: Generate MCQs from given Data
+Home-page: https://github.com/swapnil0402/MCQGEN
+Author: Swapnil Podishetti
+Author-email: u83285@gmail.com
+Requires-Dist: openai
+Requires-Dist: langchain
+Requires-Dist: streamlit
+Requires-Dist: python-dotenv
+Requires-Dist: PyPDF2
+Requires-Dist: huggingface_hub
+Requires-Dist: transformers
+Requires-Dist: accelerate
+Requires-Dist: bitsandbytes
